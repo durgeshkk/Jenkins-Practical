@@ -7,5 +7,8 @@ public class Main{
         System.out.println(new Date());
 
         System.out.println("ViLLiaN is Back, Commit - 2!!");
+
+        Student student = new Student();
+        student.sayHello();
     }
 }
